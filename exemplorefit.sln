@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exemplorefit", "exemplorefit\exemplorefit.csproj", "{57B3FCC0-7C50-4C70-835A-FC2D5A73C7EE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exemplofit", "Exemplofit", "{9E0F6E2D-2AA4-48A3-B980-441782CB68C1}"
+	ProjectSection(SolutionItems) = preProject
+		Class1.cs = Class1.cs
+		Class2.cs = Class2.cs
+		Class3.cs = Class3.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57B3FCC0-7C50-4C70-835A-FC2D5A73C7EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57B3FCC0-7C50-4C70-835A-FC2D5A73C7EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57B3FCC0-7C50-4C70-835A-FC2D5A73C7EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57B3FCC0-7C50-4C70-835A-FC2D5A73C7EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{57B3FCC0-7C50-4C70-835A-FC2D5A73C7EE} = {9E0F6E2D-2AA4-48A3-B980-441782CB68C1}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB3A630B-58A7-4AD0-BFFA-A41C934E06FC}
+	EndGlobalSection
+EndGlobal
